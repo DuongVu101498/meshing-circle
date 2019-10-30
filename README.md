@@ -1,2 +1,3 @@
 # meshing-circle
-solving dirichlet boundary problem in 2 dimensional circle
+solving Two-Dimensional Poisson Equations with Dirichlet boundary where omega is a circle (ORIGIN, R)
+# Using Dinite Element Methods (FEM)
