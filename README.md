@@ -1,6 +1,6 @@
 # meshing-circle
 solving Two-Dimensional Poisson Equations with Dirichlet boundary, ![1](https://latex.codecogs.com/gif.latex?%5COmega%20%3D%20%5C%7B%20%28x%2Cy%29%20%7Cx%5E%7B2%7D&plus;y%5E%7B2%7D%20%5Cleq%20R%5C%7D)
-# Using Dinite Element Methods (FEM)
+# Using Finite Element Methods (FEM)
 
 cmesh.py - create and interact with the mesh
 
